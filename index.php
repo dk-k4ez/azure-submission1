@@ -27,7 +27,7 @@
  </form>
  <?php
     $host = "dk-k4ezappserver.database.windows.net";
-    $user = "dk-k4ez@dk4ezappserver";
+    $user = "dk-k4ez@dk-k4ezappserver";
     $pass = "velonica!140133";
     $db = "dk-k4ez";
 
