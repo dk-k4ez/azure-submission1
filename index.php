@@ -63,10 +63,10 @@
         <input type="submit" name="load_data" value="Load Data" />
     </form>
     <?php
-    $host = "dk-k4ezappserver.database.windows.net";
-    $user = "dk-k4ez@dk-k4ezappserver";
-    $pass = "";
-    $db = "dk-k4ezdb";
+    $host = " ";
+    $user = " ";
+    $pass = " ";
+    $db = " ";
 
     try {
         $conn = new PDO("sqlsrv:server = $host; Database = $db", $user, $pass);
